@@ -30,9 +30,12 @@
 
 	git push origin branca01
 
-segona part de la pràctica. També has d'afegir la resposta a les preguntes dels apartat 6, 7, 12c i 14c de la pràctica.
+
 
 6-No veuràs la línia afegida en branca00 perquè main encara no té aquests canvis.
+
 7-ara sí que es veu la línia afegida perque estic en branca00.
+
 12c-perquè no hem fet push de branca00.
+
 14c-branca01 està 1 commit per davant de main.
